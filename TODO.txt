@@ -1,0 +1,2 @@
+- Login and authorization
+- Support for link, photo etc.

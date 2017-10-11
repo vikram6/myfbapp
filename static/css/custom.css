@@ -1,0 +1,11 @@
+.bg-white{
+    background-color:#FFF !important;
+}
+
+.container{
+    max-width: 970px;
+}
+
+.error{
+	color: red;
+}
